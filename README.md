@@ -11,29 +11,14 @@
 
 ## Pinned Projects
 
-<p>
-  <a href="https://github.com/Meloong-Git/Re-definition">
-    <img height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=Meloong-Git&repo=Re-definition&theme=github_dark" alt="Re-definition" />
-  </a>
-  <a href="https://github.com/HerobrineXia/RPI-Fall2022-IGP-GameCollection">
-    <img height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=HerobrineXia&repo=RPI-Fall2022-IGP-GameCollection&theme=github_dark" alt="RPI-Fall2022-IGP-GameCollection" />
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/HerobrineXia/RPI-Summer2022-AppJava-Draw-and-Guess-ver.RT">
-    <img height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=HerobrineXia&repo=RPI-Summer2022-AppJava-Draw-and-Guess-ver.RT&theme=github_dark" alt="RPI-Summer2022-AppJava-Draw-and-Guess-ver.RT" />
-  </a>
-  <a href="https://github.com/HerobrineXia/RPI-Summer2022-G4G-3D-Maze-Game">
-    <img height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=HerobrineXia&repo=RPI-Summer2022-G4G-3D-Maze-Game&theme=github_dark" alt="RPI-Summer2022-G4G-3D-Maze-Game" />
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/HerobrineXia/lime-companion">
-    <img height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=HerobrineXia&repo=lime-companion&theme=github_dark" alt="lime-companion" />
-  </a>
-</p>
+| Project | Stack | Notes |
+| --- | --- | --- |
+| [MIRA](https://github.com/Edward-H26/MIRA) | Python | Memory Incremental Reasoning Architecture |
+| [Re-definition](https://github.com/Meloong-Git/Re-definition) | C# | A small game made for GMTK Game Jam 2022 |
+| [RPI-Fall2022-IGP-GameCollection](https://github.com/HerobrineXia/RPI-Fall2022-IGP-GameCollection) | C# | Project for Introduction to Game Programming |
+| [RPI-Summer2022-AppJava-Draw-and-Guess-ver.RT](https://github.com/HerobrineXia/RPI-Summer2022-AppJava-Draw-and-Guess-ver.RT) | Java | Draw and Guess Java project |
+| [RPI-Summer2022-G4G-3D-Maze-Game](https://github.com/HerobrineXia/RPI-Summer2022-G4G-3D-Maze-Game) | C++ | Project for Graphics for Game Programming |
+| [lime-companion](https://github.com/HerobrineXia/lime-companion) | TypeScript | Website UI/UX for Destiny 2 loadouts |
 
 
 ## Tech Stack
