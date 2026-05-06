@@ -8,19 +8,6 @@
 ![AI Agents](https://img.shields.io/badge/AI_Agents-111827?style=flat-square)
 ![Game Development](https://img.shields.io/badge/Game_Development-111827?style=flat-square)
 
-
-## Pinned Projects
-
-| Project | Stack | Notes |
-| --- | --- | --- |
-| [MIRA](https://github.com/Edward-H26/MIRA) | Python | Memory Incremental Reasoning Architecture |
-| [Re-definition](https://github.com/Meloong-Git/Re-definition) | C# | A small game made for GMTK Game Jam 2022 |
-| [RPI-Fall2022-IGP-GameCollection](https://github.com/HerobrineXia/RPI-Fall2022-IGP-GameCollection) | C# | Project for Introduction to Game Programming |
-| [RPI-Summer2022-AppJava-Draw-and-Guess-ver.RT](https://github.com/HerobrineXia/RPI-Summer2022-AppJava-Draw-and-Guess-ver.RT) | Java | Draw and Guess Java project |
-| [RPI-Summer2022-G4G-3D-Maze-Game](https://github.com/HerobrineXia/RPI-Summer2022-G4G-3D-Maze-Game) | C++ | Project for Graphics for Game Programming |
-| [lime-companion](https://github.com/HerobrineXia/lime-companion) | TypeScript | Website UI/UX for Destiny 2 loadouts |
-
-
 ## Tech Stack
 
 ### Programming
@@ -53,3 +40,14 @@
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=HerobrineXia&theme=dark&hide_rank=true&include_all_commits=true&show_icons=true" alt="HerobrineXia GitHub stats" />
 </p>
+
+## Pinned Projects
+
+| Project | Stack | Notes |
+| --- | --- | --- |
+| [MIRA](https://github.com/Edward-H26/MIRA) | Python | Memory Incremental Reasoning Architecture |
+| [Re-definition](https://github.com/Meloong-Git/Re-definition) | C# | A small game made for GMTK Game Jam 2022 |
+| [RPI-Fall2022-IGP-GameCollection](https://github.com/HerobrineXia/RPI-Fall2022-IGP-GameCollection) | C# | Project for Introduction to Game Programming |
+| [RPI-Summer2022-AppJava-Draw-and-Guess-ver.RT](https://github.com/HerobrineXia/RPI-Summer2022-AppJava-Draw-and-Guess-ver.RT) | Java | Draw and Guess Java project |
+| [RPI-Summer2022-G4G-3D-Maze-Game](https://github.com/HerobrineXia/RPI-Summer2022-G4G-3D-Maze-Game) | C++ | Project for Graphics for Game Programming |
+| [lime-companion](https://github.com/HerobrineXia/lime-companion) | TypeScript | Website UI/UX for Destiny 2 loadouts |
