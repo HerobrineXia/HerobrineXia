@@ -48,9 +48,8 @@
 ![Unity](https://img.shields.io/badge/Unity-111827?style=for-the-badge&logo=unity)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-111827?style=for-the-badge&logo=unrealengine)
 
-## GitHub Contribution
+## GitHub Stats
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HerobrineXia&show_icons=true&theme=github_dark&hide_rank=true&include_all_commits=true&count_private=true" alt="HerobrineXia GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HerobrineXia&layout=compact&theme=github_dark&hide_border=false" alt="Most used languages" />
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=HerobrineXia&theme=dark&hide_rank=true&include_all_commits=true&show_icons=true" alt="HerobrineXia GitHub stats" />
 </p>
